@@ -1,6 +1,6 @@
-= wwex
+= WWEX
 
-Description goes here.
+WWEX is a gem for working with the Worldwide Express API
 
 == Contributing to wwex
  

@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "wwex"
   gem.homepage = "http://github.com/hwrd/wwex"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{WWEX is a gem for working with the Worldwide Express API}
+  gem.description = %Q{WWEX is a gem for working with the Worldwide Express API}
   gem.email = "brian@hwrd.com"
   gem.authors = ["Brian Howenstein"]
   # dependencies defined in Gemfile
